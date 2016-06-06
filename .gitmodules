@@ -1,0 +1,3 @@
+[submodule "galeria/qml-material"]
+	path = galeria/qml-material
+	url = git@github.com:lomedil/qml-material.git
